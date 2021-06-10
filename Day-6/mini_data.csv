@@ -1,0 +1,11 @@
+Profession,Age,Salary,Purchased
+Doctor,44,72000,No
+Lawyer,27,48000,Yes
+Banker,30,54000,No
+Lawyer,38,61000,No
+Banker,40,,Yes
+Doctor,35,58000,Yes
+Lawyer,,52000,No
+Doctor,48,79000,Yes
+Banker,50,83000,No
+Doctor,37,67000,Yes
